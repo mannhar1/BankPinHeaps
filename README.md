@@ -15,3 +15,6 @@ make clean
 make
 
 make run INPUT=Input1.txt FLAG=--max (could also be --min for a min heap)
+
+
+The "hack" function in the file Driver.cpp was supplied by my instructor. I did not write anything inside of this function.
